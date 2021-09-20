@@ -1,0 +1,1 @@
+g++ -Wnarrowing -o start.x86 *.cpp -lGL -lGLU -lSDL -fpermissive 
